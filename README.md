@@ -136,7 +136,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   
   <br/>
   <br/>
-  <br/>
+
 
 ### 📈 Estastísticas
 
