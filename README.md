@@ -10,8 +10,6 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
 
 🔵Desenvolvedor de Software
 
-🔵 Análise de dados Python e R
-
 🔵 Inglês: A2->B1
 
 🔵São Paulo-SP/Brasil
