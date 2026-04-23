@@ -138,6 +138,9 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
 
   
 
+
+
+
 ### 📈 Estastísticas
 
 <p>
