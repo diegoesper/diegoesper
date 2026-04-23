@@ -20,7 +20,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
@@ -29,7 +29,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
@@ -40,7 +40,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
@@ -49,7 +49,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
@@ -58,7 +58,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   />
@@ -67,7 +67,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
   />
@@ -76,7 +76,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
   />
@@ -85,7 +85,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
@@ -96,7 +96,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" 
   />
@@ -106,7 +106,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
   />
@@ -115,7 +115,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://devicon-website.vercel.app/api/python/original.svg" 
   />
@@ -124,7 +124,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
   />
