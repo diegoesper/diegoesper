@@ -128,9 +128,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
   />
-
-  
-  <br/>
+<br/>
   <br/>
 
   
