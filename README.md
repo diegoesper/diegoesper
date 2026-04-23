@@ -1,8 +1,6 @@
 ## 👨‍💻 Diego Esper
 
-⌨️ **`Desenvolvedor de Sistemas`**
-
-Me chamo Diego Esper e sou formado em Análise e Desenvolvivento de Sistema, pós graduado e MBA em Inteligência Artificial e Analytics ambos pela Universidade Cruzeiro do Sul. 
+⌨️ **`Desenvolvedor de Sistemas`** Me chamo Diego Esper e sou formado em Análise e Desenvolvivento de Sistema, pós graduado e MBA em Inteligência Artificial e Analytics ambos pela Universidade Cruzeiro do Sul. 
 Atualmente estou estudando Python e linguagem R para análise de dados. Para poder ampliar meu nível de conhecimento.
 
 ## Contato
