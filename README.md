@@ -151,6 +151,7 @@ src="https://github-readme-stats.vercel.app/api?username=diegoesper&show_icons=t
   align="Left"
   alt="GItHub Stats"
   height="200"
+   style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoesper&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
   </p>
