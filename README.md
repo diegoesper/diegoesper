@@ -9,7 +9,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
 [![Likendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-esper-76164b157/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoespersouza@gmail.com)
 
----
+
 🔵Desenvolvedor de Software
 
 🔵 Inglês: A2->B1
@@ -139,13 +139,11 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
 ##
 ---
 ### 📈 Estastísticas
-
-<p>
-  <img
-  align="Left"
-  alt="GItHub Stats"
-  height="100"
-  style="padding-right: 10px;"
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=diegoesper&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
   
