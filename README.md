@@ -4,7 +4,7 @@
 Atualmente estou estudando Python e linguagem R para análise de dados. Para poder ampliar meu nível de conhecimento.
 
 ---
-## Contato
+## 📧 Contato
 
 
 [![Likendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-esper-76164b157/)
@@ -12,7 +12,7 @@ Atualmente estou estudando Python e linguagem R para análise de dados. Para pod
 
 
 ---
-
+## 🪪 Habilidade
 🔵Desenvolvedor de Software
 
 🔵 Inglês: A2->B1
